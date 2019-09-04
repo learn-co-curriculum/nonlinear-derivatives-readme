@@ -101,7 +101,7 @@ plot([trace_x_squared, *x_squared_delta_traces ], layout)
 
 ### The problem with our derivative formula
 
-Take a close look at the straight line in the graph above.  That straight line is a supposed to be the rate of change of the function at the point $x = 2$.  And it comes close.  But it doesn't exactly line up.  Our orange line quickly begins to move above the blue line, indicating that it has a faster rate of change than the blue line at $x = 2$.  This means that our calculation that $f'(1) = 5 $ is a little high.
+Take a close look at the straight line in the graph above.  That straight line is a supposed to be the rate of change of the function at the point $x = 2$.  And it comes close.  But it doesn't exactly line up.  Our orange line quickly begins to move above the blue line, indicating that it has a faster rate of change than the blue line at $x = 2$.  This means that our calculation that $f'(2) = 5 $ is a little high.
 
 Here is **the problem:**
 
