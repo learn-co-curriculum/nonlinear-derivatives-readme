@@ -11,7 +11,7 @@
 
 In the last lesson, we saw that the derivative was the rate of change.
 
-![](./fxderivative.png)
+![](./fxderivative_new.png)
 
 We saw multiple ways of calculating this rate of change.  
 *  Essentially, the derivative is the rate of change of a function
